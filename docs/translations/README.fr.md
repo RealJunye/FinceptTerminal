@@ -12,7 +12,7 @@ Plateforme de renseignement financier de pointe avec analyses de niveau CFA, aut
 
 [📥 Télécharger](https://github.com/Fincept-Corporation/FinceptTerminal/releases)·[📚 Documents](https://github.com/Fincept-Corporation/FinceptTerminal/tree/main/docs)·[💬 Discussions](https://github.com/Fincept-Corporation/FinceptTerminal/discussions)·[💬 Discorde](https://discord.gg/ae87a8ygbN)·[🤝 Partenaire](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/docs/COMMERCIAL_LICENSE.md)
 
-![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Equity.png)
+![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Dashboard.png)
 
 </div>
 
@@ -20,7 +20,7 @@ Plateforme de renseignement financier de pointe avec analyses de niveau CFA, aut
 
 ## À propos
 
-**Fincept Terminal vch**est une application de bureau C++20 purement native – une réécriture complète de la précédente pile Tauri/React/Rust. Il utilise**Qt6**pour l'interface utilisateur et le rendu, intégré**Python** for analytics, and delivers Bloomberg-terminal-class performance in a single native binary.
+**Fincept Terminal vch**est une application de bureau C++20 purement native – une réécriture complète de la précédente pile Tauri/React/Rust. Il utilise**Qt6**pour l'interface utilisateur et le rendu, intégré**Python**pour l'analyse et offre des performances de classe terminal Bloomberg dans un seul binaire natif.
 
 * * *
 
@@ -73,7 +73,7 @@ Plateforme de renseignement financier de pointe avec analyses de niveau CFA, aut
 
 ### Option 1 — Télécharger le binaire prédéfini (recommandé)
 
-Des binaires prédéfinis sont disponibles sur le[Page des versions](https://github.com/Fincept-Corporation/FinceptTerminal/releases). Aucun outil de construction requis : il suffit d'extraire et d'exécuter.
+Pre-built binaries are available on the [Page des versions](https://github.com/Fincept-Corporation/FinceptTerminal/releases). Aucun outil de construction requis : il suffit d'extraire et d'exécuter.
 
 | Plate-forme                | Télécharger                              | Courir                          |
 | -------------------------- | ---------------------------------------- | ------------------------------- |
@@ -195,7 +195,7 @@ cmake --build build --config Release --parallel
 **Terminal Fincept**est une plateforme financière open source conçue pour ceux qui refusent d'être limités par les logiciels traditionnels. Nous sommes en compétition sur**profondeur d'analyse**et**accessibilité des données**– pas sur les informations privilégiées ou les flux exclusifs.
 
 -   **Performances natives**— C++20 avec Qt6, pas de surcharge Electron/Web
--   **Binaire simple**- pas de Node.js, pas d'exécution de navigateur, pas de bundle JavaScript
+-   **Binaire unique**- pas de Node.js, pas d'exécution de navigateur, pas de bundle JavaScript
 -   **Analyses de niveau CFA**— couverture complète du programme via les modules Python
 -   **Plus de 100 connecteurs de données**— de Yahoo Finance aux bases de données gouvernementales
 -   **Gratuit et open source**(AGPL-3.0) avec licences commerciales disponibles
@@ -208,7 +208,7 @@ cmake --build build --config Release --parallel
 
 * * *
 
-## Contributing
+## Contribuer
 
 Nous construisons l’avenir de l’analyse financière – ensemble.
 
@@ -243,7 +243,7 @@ Nous construisons l’avenir de l’analyse financière – ensemble.
 
 ### Source ouverte (AGPL-3.0)
 
--   Free for personal, educational, and non-commercial use
+-   Gratuit pour un usage personnel, éducatif et non commercial
 -   Nécessite des modifications de partage lorsqu'il est distribué ou utilisé comme service réseau
 -   Transparence totale du code source
 

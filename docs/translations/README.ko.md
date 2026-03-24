@@ -8,11 +8,11 @@
 
 ### **당신의 생각이 유일한 한계입니다. 데이터는 그렇지 않습니다.**
 
-CFA 수준 분석, AI 자동화, 무제한 데이터 연결을 갖춘 최첨단 금융 인텔리전스 플랫폼입니다.
+CFA 수준 분석, AI 자동화 및 무제한 데이터 연결을 갖춘 최첨단 금융 인텔리전스 플랫폼입니다.
 
 [📥 다운로드](https://github.com/Fincept-Corporation/FinceptTerminal/releases)·[📚 문서](https://github.com/Fincept-Corporation/FinceptTerminal/tree/main/docs)·[💬 토론](https://github.com/Fincept-Corporation/FinceptTerminal/discussions)·[💬 불화](https://discord.gg/ae87a8ygbN)·[🤝 파트너](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/docs/COMMERCIAL_LICENSE.md)
 
-![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Equity.png)
+![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Dashboard.png)
 
 </div>
 
@@ -26,15 +26,15 @@ CFA 수준 분석, AI 자동화, 무제한 데이터 연결을 갖춘 최첨단 
 
 ## 기술 스택
 
-| 층             | 기술                               |
-| ------------- | -------------------------------- |
-| **언어**        | C++20(MSVC/GCC/클랭)               |
-| **UI 프레임워크**  | Qt6 위젯                           |
-| **차트**        | Qt6 차트                           |
-| **네트워킹**      | Qt6 네트워크 + Qt6 WebSocket         |
-| **데이터 베이스**   | Qt6 SQL(SQLite)                  |
-| **Analytics** | 임베디드 Python 3.11+(100개 이상의 스크립트) |
-| **짓다**        | CMake 3.20+                      |
+| 층            | 기술                               |
+| ------------ | -------------------------------- |
+| **언어**       | C++20(MSVC/GCC/클랭)               |
+| **UI 프레임워크** | Qt6 위젯                           |
+| **차트**       | Qt6 차트                           |
+| **네트워킹**     | Qt6 네트워크 + Qt6 WebSocket         |
+| **데이터 베이스**  | Qt6 SQL(SQLite)                  |
+| **해석학**      | 임베디드 Python 3.11+(100개 이상의 스크립트) |
+| **짓다**       | CMake 3.20+                      |
 
 * * *
 
@@ -48,7 +48,7 @@ CFA 수준 분석, AI 자동화, 무제한 데이터 연결을 갖춘 최첨단 
 | 📈**실시간 거래**           | 암호화폐(Kraken/HyperLiquid WebSocket), 주식, 알고 트레이딩, 종이 트레이딩 엔진                      |
 | 🔬**QuantLib 스위트**     | 18개의 정량 분석 ​​모듈 — 가격 책정, 리스크, 확률론적, 변동성, 채권                                      |
 | 🚢**글로벌 인텔리전스**        | 해양 추적, 지정학적 분석, 관계 매핑, 위성 데이터                                                    |
-| 🎨**시각적 워크플로우**        | 자동화 파이프라인을 위한 노드 편집기, MCP 도구 통합                                                  |
+| 🎨**시각적 워크플로**         | 자동화 파이프라인을 위한 노드 편집기, MCP 도구 통합                                                  |
 | 🧠**AI 퀀트 연구실**        | ML 모델, 요인 발견, HFT, 강화 학습 거래                                                      |
 
 * * *
@@ -245,7 +245,7 @@ cmake --build build --config Release --parallel
 
 -   개인적, 교육적, 비상업적 용도로는 무료입니다.
 -   네트워크 서비스로 배포 또는 사용 시 공유 수정 필요
--   전체 소스 코드 투명성
+-   완전한 소스 코드 투명성
 
 ### 상업용 라이센스
 

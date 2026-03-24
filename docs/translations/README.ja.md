@@ -12,7 +12,7 @@ CFA レベルの分析、AI 自動化、無制限のデータ接続を備えた�
 
 [📥 ダウンロード](https://github.com/Fincept-Corporation/FinceptTerminal/releases)·[📚 ドキュメント](https://github.com/Fincept-Corporation/FinceptTerminal/tree/main/docs)·[💬 ディスカッション](https://github.com/Fincept-Corporation/FinceptTerminal/discussions)·[💬不協和音](https://discord.gg/ae87a8ygbN)·[🤝パートナー](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/docs/COMMERCIAL_LICENSE.md)
 
-![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Equity.png)
+![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Dashboard.png)
 
 </div>
 
@@ -20,7 +20,7 @@ CFA レベルの分析、AI 自動化、無制限のデータ接続を備えた�
 
 ## について
 
-**Fincept ターミナル vch**は純粋なネイティブ C++20 デスクトップ アプリケーションであり、以前の Tauri/React/Rust スタックから完全に書き直されました。使用します**Qt6**UI およびレンダリング用、埋め込み**パイソン**分析用に提供され、単一のネイティブ バイナリでブルームバーグ ターミナル クラスのパフォーマンスを実現します。
+**Fincept ターミナル vch**は純粋なネイティブ C++20 デスクトップ アプリケーションであり、以前の Tauri/React/Rust スタックから完全に書き直されました。使用します**Qt6**UI とレンダリング用、埋め込み**パイソン**分析用に提供され、単一のネイティブ バイナリでブルームバーグ ターミナル クラスのパフォーマンスを実現します。
 
 * * *
 
@@ -40,10 +40,10 @@ CFA レベルの分析、AI 自動化、無制限のデータ接続を備えた�
 
 ## 特徴
 
-| **特徴**              | **説明**                                                             |
+| **Feature**         | **説明**                                                             |
 | ------------------- | ------------------------------------------------------------------ |
 | 📊**CFAレベルの分析**     | DCF モデル、ポートフォリオの最適化、リスク指標 (VaR、Sharpe)、組み込み Python によるデリバティブ価格設定   |
-| 🤖**AIエージェント**      | 20 人以上の投資家ペルソナ (バフェット、ダリオ、グラハム)、ヘッジファンド戦略、ローカル LLM サポート            |
+| 🤖**AIエージェント**      | 20 人以上の投資家ペルソナ (バフェット、ダリオ、グレアム)、ヘッジファンド戦略、ローカル LLM サポート            |
 | 🌐**100以上のデータコネクタ** | DBnomics、Polygon、Kraken、Yahoo Finance、FRED、IMF、世界銀行、AkShare、政府 API |
 | 📈**リアルタイム取引**      | 暗号 (Kraken/HyperLiquid WebSocket)、株式、アルゴ取引、ペーパー取引エンジン              |
 | 🔬**クアントリブ スイート**   | 18 個の定量分析モジュール — 価格設定、リスク、確率論、ボラティリティ、債券                           |
@@ -130,13 +130,13 @@ docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix fincept-ter
 
 #### 前提条件
 
-| 道具           | Version | 窓                                                            | Linux                 | macOS                              |
-| ------------ | ------- | ------------------------------------------------------------ | --------------------- | ---------------------------------- |
-| **Git**      | 最新      | `winget install Git.Git`                                     | `apt install git`     | `brew install git`                 |
-| **CMake**    | 3.20+   | `winget install Kitware.CMake`                               | `apt install cmake`   | `brew install cmake`               |
-| **C++コンパイラ** | C++20   | MSVC 2022 ([ビジュアルスタジオ](https://visualstudio.microsoft.com/)) | `apt install g++`     | Xcode CLT:`xcode-select --install` |
-| **Qt6**      | 6.5+    | 以下を参照してください                                                  | 以下を参照してください           | 以下を参照してください                        |
-| **パイソン**     | 3.11+   | [python.org](https://www.python.org/downloads/)              | `apt install python3` | `brew install python`              |
+| 道具           | バージョン | 窓                                                            | Linux                 | macOS                              |
+| ------------ | ----- | ------------------------------------------------------------ | --------------------- | ---------------------------------- |
+| **Git**      | 最新    | `winget install Git.Git`                                     | `apt install git`     | `brew install git`                 |
+| **CMake**    | 3.20+ | `winget install Kitware.CMake`                               | `apt install cmake`   | `brew install cmake`               |
+| **C++コンパイラ** | C++20 | MSVC 2022 ([ビジュアルスタジオ](https://visualstudio.microsoft.com/)) | `apt install g++`     | Xcode CLT:`xcode-select --install` |
+| **Qt6**      | 6.5+  | 以下を参照してください                                                  | 以下を参照してください           | 以下を参照してください                        |
+| **パイソン**     | 3.11+ | [python.org](https://www.python.org/downloads/)              | `apt install python3` | `brew install python`              |
 
 #### Qt6をインストールする
 

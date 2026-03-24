@@ -12,7 +12,7 @@ Plataforma de inteligencia financiera de última generación con análisis de ni
 
 [📥 Descargar](https://github.com/Fincept-Corporation/FinceptTerminal/releases)·[📚 Documentos](https://github.com/Fincept-Corporation/FinceptTerminal/tree/main/docs)·[💬 Discusiones](https://github.com/Fincept-Corporation/FinceptTerminal/discussions)·[💬 Discordia](https://discord.gg/ae87a8ygbN)·[🤝 Socio](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/docs/COMMERCIAL_LICENSE.md)
 
-![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Equity.png)
+![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Dashboard.png)
 
 </div>
 
@@ -59,7 +59,7 @@ Plataforma de inteligencia financiera de última generación con análisis de ni
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Centro**              | Panel de control, Mercados, Noticias, Lista de seguimiento                                                                                                                              |
 | **Comercio**            | Comercio de criptomonedas, comercio de acciones, comercio de algoritmos, pruebas retrospectivas, visualización comercial                                                                |
-| **Investigación**       | Investigación de acciones, evaluador, cartera, análisis de superficie, análisis de fusiones y adquisiciones, derivados, inversiones alternativas                                        |
+| **Investigación**       | Investigación de acciones, Screener, Cartera, Análisis de superficie, Análisis de fusiones y adquisiciones, Derivados, Inversiones alternativas                                         |
 | **QuantLib**            | Núcleo, Análisis, Curvas, Economía, Instrumentos, ML, Modelos, Numérico, Física, Portafolio, Precios, Regulatorio, Riesgo, Programación, Solver, Estadísticas, Estocástico, Volatilidad |
 | **IA/ML**               | AI Quant Lab, Agent Studio, AI Chat, Alpha Arena                                                                                                                                        |
 | **Ciencias económicas** | Economía, DBnomics, AkShare, Mercados de Asia                                                                                                                                           |

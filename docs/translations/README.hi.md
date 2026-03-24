@@ -12,7 +12,7 @@
 
 [📥 Download](https://github.com/Fincept-Corporation/FinceptTerminal/releases)·[📚 दस्तावेज़](https://github.com/Fincept-Corporation/FinceptTerminal/tree/main/docs)·[💬चर्चाएँ](https://github.com/Fincept-Corporation/FinceptTerminal/discussions)·[💬 कलह](https://discord.gg/ae87a8ygbN)·[🤝साथी](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/docs/COMMERCIAL_LICENSE.md)
 
-![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Equity.png)
+![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Dashboard.png)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## के बारे में
 
-**Fincept Terminal v4**एक शुद्ध देशी C++20 डेस्कटॉप एप्लिकेशन है - पिछले टॉरी/रिएक्ट/रस्ट स्टैक से एक पूर्ण पुनर्लेखन। यह उपयोगकर्ता है**Qt6**यूआई और रेंडरिंग के लिए, एंबेडेड**अजगर**एनालिटिक्स के लिए, और एकल देशी बाइनरी में ब्लूमबर्ग-टर्मिनल-क्लास प्रदर्शन प्रदान करता है।
+**फिनसेप्ट टर्मिनल वीसीएच**एक शुद्ध देशी C++20 डेस्कटॉप एप्लिकेशन है - पिछले टॉरी/रिएक्ट/रस्ट स्टैक से एक पूर्ण पुनर्लेखन। यह उपयोगकर्ता है**Qt6**यूआई और रेंडरिंग के लिए, एंबेडेड**अजगर**एनालिटिक्स के लिए, और एकल देशी बाइनरी में ब्लूमबर्ग-टर्मिनल-क्लास प्रदर्शन प्रदान करता है।
 
 * * *
 
@@ -192,7 +192,7 @@ cmake --build build --config Release --parallel
 
 ## जो हमें अलग करता है
 
-**फिनसेप्ट टर्मिनल**एक ओपन-सोर्स वित्तीय मंच है जो उन लोगों के लिए बनाया गया है जो पारंपरिक सॉफ्टवेयर तक सीमित होने से इनकार करते हैं। हम प्रतिस्पर्धा करते हैं**विश्लेषणात्मक गहराई**और**डेटा पहुंच**- अंदरूनी जानकारी या विशेष फ़ीड पर नहीं।
+**फिनसेप्ट टर्मिनल**एक खुला स्रोत वित्तीय मंच है जो उन लोगों के लिए बनाया गया है जो पारंपरिक सॉफ्टवेयर तक सीमित होने से इनकार करते हैं। हम प्रतिस्पर्धा करते हैं**विश्लेषणात्मक गहराई**और**डेटा पहुंच**- अंदरूनी जानकारी या विशेष फ़ीड पर नहीं।
 
 -   **मूल प्रदर्शन**- Qt6 के साथ C++20, कोई इलेक्ट्रॉन/वेब ओवरहेड नहीं
 -   **एकल बाइनरी**- कोई Node.js नहीं, कोई ब्राउज़र रनटाइम नहीं, कोई जावास्क्रिप्ट बंडलर नहीं
@@ -208,7 +208,7 @@ cmake --build build --config Release --parallel
 
 * * *
 
-## Contributing
+## योगदान
 
 हम वित्तीय विश्लेषण का भविष्य एक साथ मिलकर बना रहे हैं।
 

@@ -12,7 +12,7 @@
 
 [📥 下载](https://github.com/Fincept-Corporation/FinceptTerminal/releases)·[📚 文档](https://github.com/Fincept-Corporation/FinceptTerminal/tree/main/docs)·[💬 讨论](https://github.com/Fincept-Corporation/FinceptTerminal/discussions)·[💬 不和谐](https://discord.gg/ae87a8ygbN)·[🤝 合作伙伴](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/docs/COMMERCIAL_LICENSE.md)
 
-![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Equity.png)
+![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Dashboard.png)
 
 </div>
 
@@ -40,16 +40,16 @@
 
 ## 特征
 
-| **特征**            | **描述**                                                         |
-| ----------------- | -------------------------------------------------------------- |
-| 📊**CFA 级别分析**    | DCF 模型、投资组合优化、风险指标（VaR、夏普）、通过嵌入式 Python 进行衍生品定价                |
-| 🤖**人工智能代理**      | 20 多个投资者角色（巴菲特、达里奥、格雷厄姆）、对冲基金策略、本地法学硕士支持                       |
-| 🌐**100 多个数据连接器** | DBnomics、Polygon、Kraken、雅虎财经、FRED、国际货币基金组织、世界银行、AkShare、政府 API |
-| 📈**实时交易**        | 加密货币（Kraken/HyperLiquid WebSocket）、股权、算法交易、纸质交易引擎              |
-| 🔬**定量库套件**       | 18个定量分析模块——定价、风险、随机、波动性、固定收益                                   |
-| 🚢**全球情报**        | 海上跟踪、地缘政治分析、关系映射、卫星数据                                          |
-| 🎨**可视化工作流程**     | 用于自动化管道、MCP 工具集成的节点编辑器                                         |
-| 🧠**人工智能量化实验室**   | 机器学习模型、因子发现、高频交易、强化学习交易                                        |
+| **特征**            | **描述**                                                                                    |
+| ----------------- | ----------------------------------------------------------------------------------------- |
+| 📊**CFA 级别分析**    | DCF 模型、投资组合优化、风险指标（VaR、夏普）、通过嵌入式 Python 进行衍生品定价                                           |
+| 🤖**人工智能代理**      | 20 多个投资者角色（巴菲特、达里奥、格雷厄姆）、对冲基金策略、本地法学硕士支持                                                  |
+| 🌐**100 多个数据连接器** | DBnomics, Polygon, Kraken, Yahoo Finance, FRED, IMF, World Bank, AkShare, government APIs |
+| 📈**实时交易**        | 加密货币（Kraken/HyperLiquid WebSocket）、股权、算法交易、纸质交易引擎                                         |
+| 🔬**定量库套件**       | 18个定量分析模块——定价、风险、随机、波动性、固定收益                                                              |
+| 🚢**全球情报**        | 海上跟踪、地缘政治分析、关系映射、卫星数据                                                                     |
+| 🎨**可视化工作流程**     | 用于自动化管道、MCP 工具集成的节点编辑器                                                                    |
+| 🧠**人工智能量化实验室**   | 机器学习模型、因子发现、高频交易、强化学习交易                                                                   |
 
 * * *
 
